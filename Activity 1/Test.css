@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body { 				
     height:100vh;
     width:100vw;
@@ -14,4 +15,22 @@ body {
 
 .fblogo{
 	text-align: center;
+=======
+body { 				
+    height:100vh;
+    width:100vw;
+    background-color; white; 
+}
+
+.pfp{
+	text-align: center;
+
+}
+.Description{
+	text-align: center;
+}
+
+.fblogo{
+	text-align: center;
+>>>>>>> 33ccf65b23e218f058e5cd9c94230a82d2266775
 }
